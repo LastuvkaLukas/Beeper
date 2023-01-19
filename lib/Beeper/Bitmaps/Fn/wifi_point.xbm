@@ -1,0 +1,4 @@
+#define xbm_fn_wifi_point_width 5
+#define xbm_fn_wifi_point_height 5
+static unsigned char xbm_fn_wifi_point_bits[] = {
+    0x04, 0x0e, 0x1f, 0x0e, 0x04};
