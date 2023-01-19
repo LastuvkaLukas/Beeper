@@ -4,7 +4,7 @@
 //* Extended buzzer
 
 /// @brief Check if buzzer is on (read from EEPROM)
-/// @return BUZZER_ON / BUZZER_OFF
+/// @return 1 (buzzer on), 0 (buzzer off)
 uint8_t buzzer_isOn()
 {
     return eeprom_read() == BUZZER_ON;
