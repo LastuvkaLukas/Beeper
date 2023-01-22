@@ -6,6 +6,8 @@
  * @author Laštůvka Lukáš
  * @version 0.1.0
  *
+ * @git https://github.com/LastuvkaLukas/Beeper.git
+ *
  * @year 2022
  * @licence MIT
  **/
